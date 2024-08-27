@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.btn {
+    margin-top: 30px;
+    border: none;
+    line-height: 10px;
+    color: #6d6d6d;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.material-icons {
+	position: relative;
+	font-size: 40px;
+	right: 13px;
+}
+
+.btn:hover {
+    color: #534040;
+}
+
